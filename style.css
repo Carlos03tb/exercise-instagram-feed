@@ -1,0 +1,113 @@
+body {
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(235, 234, 234);
+
+}
+h3 {
+    margin-top: 200px;
+    width: 800px;
+    margin-left: -200px;
+}
+.contenedor {
+    margin: 0 auto;
+    width: 405px;
+}
+a {
+    color: rgb(250, 250, 253);
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+}
+
+.boton {
+    margin-top: 15px;
+    color: blue;
+    background-color: grey;
+    width: 100px;
+    border-radius: 5px; 
+    margin-left: 150px;
+    padding: 5px;
+    
+}
+.boton:hover {
+    color: grey;
+    background-color: blue;
+    padding: 7px;
+}
+
+p1 {
+    margin-right: 180px
+}
+
+
+
+
+.seat124sport {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+}
+.fotoseat124 {
+    width: 400px;
+}
+
+
+
+
+.citroëngs {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+}
+.fotocitroëngs {
+    width: 400px;
+}
+
+
+
+.chrysler180 {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+}
+.fotochrysler180 {
+    width: 400px;
+}
+
+
+
+.Dodge3700GT {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+}
+.fotododge3700gt {
+    width: 400px;
+}
+
+
+
+.simca1200 {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.fotosimca1200 {
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
